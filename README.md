@@ -13,9 +13,7 @@ I am a full-stack web developer using HTML, CSS, bootstrap, and javascript for f
 * 🧠  I'm learning Django and Django Rest Framework--sharpening my backend skill
 * 🤝  I'm open to collaborating on django, javascript and python projects
 
-<a href="https://www.twitter.com/seermad21" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/seermad21?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/seermad1" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/seermad1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/seermad1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
